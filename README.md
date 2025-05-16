@@ -1,1 +1,2 @@
-## setting up a new shoping cart project
+# shopping cart react and type script exercice
+
