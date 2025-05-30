@@ -7,9 +7,9 @@ I followed up a [tutorial from web dev simplifified](https://www.youtube.com/wat
 
 ---
 
-[see project]()
+[see project](https://roberrini-shopping-bootstrap.netlify.app/)
 
-[![image](./public/CartDemo.png)]()
+[![image](./public/CartDemo.png)](https://roberrini-shopping-bootstrap.netlify.app/)
 
 
 ---
